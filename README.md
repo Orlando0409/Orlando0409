@@ -22,20 +22,20 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">  About Me</h3>
 
 ###
 
   <p align="left">
   I'm a Systems Engineering student from National Univesity Costa Rica  <br><br>
-  -  Currently working on academic and personal full-stack projects  
-  -  Learning Backend development with NestJS and MySQL  
-  -  In my free time I build projects, explore new technologies and improve my problem-solving skills
+  -  Currently working on academic and personal full-stack projects  <br><br>
+  -  Learning Backend development with NestJS and MySQL  <br><br>
+  -  In my free time I build projects, explore new technologies and improve my problem-solving skills <br><br>
   </p>
   
 ###
 
-<h3 align="left">🛠️ Languages, Frameworks & Tools</h3>
+<h3 align="left"> Languages, Frameworks & Tools</h3>
 
 <h4 align="left"> Programming Languages</h4>
 <div align="left">
@@ -67,7 +67,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
 </div>
 
 
