@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Orlando0409&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+    <img src="(https://streak-stats.demolab.com?user=Orlando0409&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
 </div>
 
 ###
