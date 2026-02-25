@@ -101,3 +101,7 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Orlando0409/Orlando0409/output/snake.svg" alt="Snake animation" />
