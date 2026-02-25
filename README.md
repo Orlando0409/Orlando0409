@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="www.linkedin.com/in/orlando-baltodano-149b60333&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Orlando0409.Orlando0409&"  />
 </div>
 
 ###
@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-    <img src="(https://streak-stats.demolab.com?user=Orlando0409&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Orlando0409&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 ###
