@@ -27,17 +27,17 @@
 ###
 
   <p align="left">
-  I'm a Systems Engineering student from Costa Rica 🇨🇷 <br><br>
-  - 🔭 Currently working on academic and personal full-stack projects  
-  - 📚 Learning Backend development with NestJS and MySQL  
-  - ⚡ In my free time I build projects, explore new technologies and improve my problem-solving skills
+  I'm a Systems Engineering student from National Univesity Costa Rica  <br><br>
+  -  Currently working on academic and personal full-stack projects  
+  -  Learning Backend development with NestJS and MySQL  
+  -  In my free time I build projects, explore new technologies and improve my problem-solving skills
   </p>
   
 ###
 
 <h3 align="left">🛠️ Languages, Frameworks & Tools</h3>
 
-<h4 align="left">🧩 Programming Languages</h4>
+<h4 align="left"> Programming Languages</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img width="12"/>
@@ -52,44 +52,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
 </div>
 
-<h4 align="left">⚙️ Frontend Libraries & Tools</h4>
+<h4 align="left"> Frontend Libraries & Tools</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" height="40" alt="TanStack"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" height="40"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
 </div>
 
-<h4 align="left">🧩 Backend & APIs</h4>
+<h4 align="left"> Backend & APIs</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
 </div>
 
-<ul>
-  <li>REST APIs</li>
-  <li>JWT Authentication</li>
-  <li>TypeORM</li>
-</ul>
 
-<h4 align="left">🗄️ Databases</h4>
+<h4 align="left"> Databases</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
 </div>
 
-<h4 align="left">🎨 Design</h4>
+<h4 align="left">Design, DevOps, Workflow & Methodologies</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</div>
-
-<h4 align="left">🧪 DevOps, Workflow & Methodologies</h4>
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
@@ -97,9 +86,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40"/>
 </div>
 
-<ul>
-  <li>Scrum / Agile</li>
-</ul>
 
 ###
 
@@ -111,7 +97,4 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Orlando0409&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando0409&layout=compact&theme=vision-friendly-dark"/>
-</div>
 ###
