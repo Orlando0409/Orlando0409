@@ -18,19 +18,17 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋, Im Orlando</h1>
 
 ###
 
-<h3 align="left">  About Me</h3>
-
-###
 
   <p align="left">
-  I'm a Systems Engineering student from National Univesity Costa Rica  <br><br>
-  -  Currently working on academic and personal full-stack projects  <br><br>
-  -  Learning Backend development with NestJS and MySQL  <br><br>
-  -  In my free time I build projects, explore new technologies and improve my problem-solving skills <br><br>
+  I'm a Systems Engineering student at Universidad Nacional de Costa Rica with a strong interest in full-stack and backend development.<br><br>
+  -  Currently developing academic and personal full-stack applications using React, TypeScript, NestJS, and relational databases.<br>
+  -  Focused on backend development, working with RESTful APIs, JWT-based authentication, and ORM tools such as TypeORM with MySQL.<br>
+  -  Familiar with designing modular and maintainable systems following clean architecture principles.<br>
+  -  In my free time, I build projects, explore new technologies, and continuously improve my problem-solving and software design skills.
   </p>
   
 ###
